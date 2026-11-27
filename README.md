@@ -1,2 +1,5 @@
 # grid-cli
-Lightweight DuckDB utilities and helpers (grid-cli)
+
+Lightweight `DuckDB` utilities maintained by @fro57shard.
+
+- Focus: Exploring reactive interfaces, state sync, and offline caching.
